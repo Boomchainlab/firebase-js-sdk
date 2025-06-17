@@ -25,9 +25,9 @@ configure<PublishingExtension> {
                 }
 
                 scm {
-                    connection.set("scm:git:git://github.com/stainless-sdks/agu-token-kotlin.git")
-                    developerConnection.set("scm:git:git://github.com/stainless-sdks/agu-token-kotlin.git")
-                    url.set("https://github.com/stainless-sdks/agu-token-kotlin")
+                    connection.set("scm:git:git://github.com/Boomchainlab/firebase-js-sdk.git")
+                    developerConnection.set("scm:git:git://github.com/Boomchainlab/firebase-js-sdk.git")
+                    url.set("https://github.com/Boomchainlab/firebase-js-sdk")
                 }
 
                 versionMapping {
